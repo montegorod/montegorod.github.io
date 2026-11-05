@@ -3,7 +3,7 @@
 A free 69-page self-study guide to technical analysis: 14 chapters, 44 charts,
 practice tasks, a checklist and a 66-term glossary. No income promises, no signals.
 
-**Download:** see the [Releases](../../releases) page — `manual-en.pdf`.
+**Download:** see the [Releases](../../releases) page — `Reliable Investments — Technical Analysis (EN).pdf`.
 
 ## What is inside
 
